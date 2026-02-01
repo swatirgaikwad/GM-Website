@@ -24,7 +24,7 @@ def apply_page(request,id):
     if request.method == 'POST':
        name =request.POST.get('name')
        age =request.POST.get('age')
-       gender =request.POST.get('gender')
+       gender =request.POST.get('gender')           
        email =request.POST.get('email')
        mobile =request.POST.get('mobile')
        messages.success(request, "Your application has been submitted successfully!")

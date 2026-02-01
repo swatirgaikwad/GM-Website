@@ -1,2 +1,3 @@
 2025-02-04 14:04:58.590 IST [20696] LOG:  redirecting log output to logging collector process
 2025-02-04 14:04:58.590 IST [20696] HINT:  Future log output will appear in directory "log".
+   

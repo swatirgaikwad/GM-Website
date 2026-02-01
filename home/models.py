@@ -38,7 +38,7 @@ class Applicant(models.Model):
     
     def __str__(self) -> str:
         return f"{self.name} - {self.age}"
-
+     
     
 class CandidateDetails(models.Model):
     name = models.CharField(max_length=100)

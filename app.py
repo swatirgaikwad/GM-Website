@@ -6,3 +6,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'gmwebsite.settings')
 
 # Create the WSGI application
 app = get_wsgi_application()
+   

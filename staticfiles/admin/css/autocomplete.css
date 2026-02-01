@@ -15,7 +15,7 @@ select.admin-autocomplete {
 .select2-container--admin-autocomplete.select2-container--focus .select2-selection,
 .select2-container--admin-autocomplete.select2-container--open .select2-selection {
     border-color: var(--body-quiet-color);
-    min-height: 30px;
+    min-height: 30px;  
 }
 
 .select2-container--admin-autocomplete.select2-container--focus .select2-selection.select2-selection--single,
